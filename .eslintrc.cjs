@@ -24,5 +24,5 @@ module.exports = {
     ],
     '@typescript-eslint/no-non-null-assertion': 'off',
   },
-  eslintIgnore: ['taildind.conf.js'],
+  eslintIgnore: ['tailwind.config.js'],
 };
