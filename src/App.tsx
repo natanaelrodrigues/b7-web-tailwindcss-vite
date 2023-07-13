@@ -1,4 +1,5 @@
 import './App.css'
+import Container from './components/Container'
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
       </div>
      <h1 className='text-fuchsia-200'>Bem vindo</h1>
      <button className='bg-blue-500 text-white rounded-md px-3 py-3 border-none'>Clique aqui</button>
+     <Container/>
     </>
   )
 }

@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
-import Login from './pages/Login.jsx'
+import Login from './components/Login.jsx'
 import './index.css'
 import {
   createBrowserRouter,
